@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java, .Net, python**
+- 🌱 I’m currently learning **Java, Spring**
 
 - 📫 How to reach me **merrt.topal@gmail.com**
 
