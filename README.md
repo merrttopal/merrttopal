@@ -2,7 +2,7 @@
 
 <h3 align="center">A Spring development enthusiast who loves coding in Turkey</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </img>
-- 📫 How to reach me **merrt.topal@gmail.com**
+- 📫 How to reach me &#10139; <a href="mailto:merrt.topal@gmail.com" target="blank">merrt.topal@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
